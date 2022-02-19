@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Brian
-#### Front End Developer 💻 
-![Front End Developer 💻 ](https://www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/9397f/websites-banner.jpg)
+#### I'm a Front End Developer 💻 
+<img src='/banner.png'>
 
-I'm from California, and I do content on Web Development. I really enjoy the process of learning new languages and frameworks which has taken me from WordPress to my favorite ReactJS. I also enjoy ui, ux, and design process in general. I often spend time on dribble or unsplash looking for motivation and inspiration. 
+I'm from California, and I do content on Web Development. I really enjoy the process of learning new languages and frameworks which has taken me from WordPress to my favorite ReactJS. I also enjoy the ui, ux, and design process in general. I often spend time on dribble or unsplash looking for motivation and inspiration. I work well in teams or individually and have over year experience working remotely. 
 
 Skills: HTML / CSS / JS / ReactJS / NodeJS 
 
