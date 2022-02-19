@@ -7,7 +7,7 @@ I'm from California, and I do content on Web Development. I really enjoy the pro
 Skills: HTML / CSS / JS / ReactJS / NodeJS 
 
 - 🔭 I’m currently working on A ReactJS project to clone the front end of Medium.com 
-- 📫 How to reach me: nimbuscoding7@gmail.com 
+- 📫 How to reach me: 
 - ⚡ Fun fact: The highest grossing media franchise of all time is Pokemon at $110 billion. The MCU is currently at $38 billion. 
 
 
