@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Brian
-#### I'm a Front End Developer 💻 
+#### I'm a Front End Developer who loves creating experiences through React JS 💻 
 <img src='/banner.png'>
 
-I'm from California, and I do content on Web Development. I really enjoy the process of learning new languages and frameworks which has taken me from WordPress to my favorite ReactJS. I also enjoy the ui, ux, and design process in general. I often spend time on dribble or unsplash looking for motivation and inspiration. I work well in teams or individually and have over year experience working remotely. 
+I'm from California, and I specialize in Web Development. I really enjoy the process of learning new languages and frameworks which has taken me from WordPress to my favorite ReactJS. ReactJS and NextJS server ride rendering along side TailwindCSS is my favorite combination when coding. I also enjoy the ui, ux, and design process in general and I often spend time on dribble or unsplash looking for motivation and inspiration. I work well in teams or individually and have over year experience working remotely. 
 
-Skills: HTML / CSS / JS / ReactJS / NodeJS 
+Skills: HTML / CSS / JS / ReactJS / NextJS / NodeJS 
 
-- 🔭 I’m currently working on A ReactJS project to clone the front end of Medium.com 
+- 🔭 I’m currently working on A ReactJS project to clone the front end of Hulu.com 
 - 📫 How to reach me: 
 - ⚡ Fun fact: The highest grossing media franchise of all time is Pokemon at $110 billion. The MCU is currently at $38 billion. 
 
