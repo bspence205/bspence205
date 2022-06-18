@@ -6,7 +6,7 @@ I'm from California, and I specialize in Web Development. I really enjoy the pro
 
 Skills: HTML / CSS / JS / ReactJS / NextJS / NodeJS 
 
-- 🔭 I’m currently working on A ReactJS project to clone the front end of Hulu.com 
+- 🔭 I’m currently working on a ReactJS project to clone the front end of Reddit.com that allows login through NextAuth
 - 📫 How to reach me: nimbuscoding7@gmail.com
 - ⚡ Fun fact: The highest grossing media franchise of all time is Pokemon at $110 billion. The MCU is currently at $38 billion. 
 
