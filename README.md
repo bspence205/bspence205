@@ -2,7 +2,7 @@
 #### I'm a Front End Developer who loves creating experiences through React JS 💻 
 <img src='/banner.png'>
 
-I'm from California, and I specialize in Web Development. I really enjoy the process of learning new languages and frameworks which has taken me from WordPress to my favorite ReactJS. ReactJS and NextJS server ride rendering along side TailwindCSS is my favorite combination when coding. I also enjoy the ui, ux, and design process in general and I often spend time on dribble or unsplash looking for motivation and inspiration. I work well in teams or individually and have over year experience working remotely. 
+I discovered my love for programming during the COVID-19 lock down and have committed myself to learning the Javascript tech stack. I specialize in using front end technologies for developing responsive web designs and user experiences. As a Front End Developer, I've worked on both website clones using the Javascript stack like ReactJS and NextJS, as well as vanilla Javascript projects to build & scale them to completion. Along my journey I realized my passion existed in creating digital experiences for others. With this passion, I have dedicated myself to develop real world usable code by reading documentation, getting coaching sessions through my mentor and by progressing through personal projects.
 
 Skills: HTML / CSS / JS / ReactJS / NextJS / NodeJS 
 
