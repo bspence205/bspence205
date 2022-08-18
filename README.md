@@ -6,7 +6,7 @@ I discovered my love for programming during the COVID-19 lock down and have comm
 
 Skills: HTML / CSS / JS / ReactJS / NextJS / NodeJS 
 
-- 🔭 I’m currently working on a ReactJS project to clone the front end of Reddit.com that allows login through NextAuth
+- 🔭 I’m currently working on a ReactJS project to clone the front end of Facebook.com that allows login functionality through Next.JS NextAuth
 - 📫 How to reach me: nimbuscoding7@gmail.com
 - ⚡ Fun fact: The highest grossing media franchise of all time is Pokemon at $110 billion. The MCU is currently at $38 billion. 
 
