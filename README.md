@@ -10,7 +10,7 @@ Skills: HTML / CSS / JS / ReactJS / NextJS / NodeJS
 
 - 🔭 I’m currently working on a ReactJS project to clone the front end of Facebook.com that allows login functionality through Next.JS NextAuth. Besides that I am regularly practicing my HTML, CSS and Javascript fundamentals with a focus in responsive website design and dom manipulation.  
 - 📫 How to reach me: nimbuscoding7@gmail.com
-- Visit my LinkedIn profile! <a href="https://www.linkedin.com/in/brian-spencer-99733823b/" target="_blank">LinkedIn Profile</a>
+- Visit my <a href="https://www.linkedin.com/in/brian-spencer-99733823b/" target="_blank">LinkedIn profile!</a>
 - ⚡ Fun fact: The highest grossing media franchise of all time is Pokemon at $110 billion. The MCU is currently at $38 billion. 
 
 
