@@ -2,16 +2,20 @@
 #### I'm a Front End Developer who loves creating experiences through React JS 💻 
 <img src='/banner.png'>
 
-As a Front End Developer, I've worked on both website clones using the Javascript React stack as well as vanilla Javascript projects to build & scale them to completion. I have proven experience developing modern component based websites using HTML, CSS, Javascript, ReactJS and NextJS.
+Hi! I'm Brian, a curious and problem solving Front End Developer. 
 
-In my free time, I enjoy spending time with my pet corgi Gatsby, exercising and traveling. 
+I was first drawn to Front End Development by the way it combines creativity, logic and design to create products with user needs in mind. Since then, I have been constantly seeking for opportunities to expand my knowledge and apply my skills to design in the exciting digital age. 
+
+As a Front End Developer, I embrace the challenge of turning complex goals into easy to use designs to create better user experiences through the design thinking process. With a 3 year background in accounting, I developed my ability to analyze problems which I apply to my development process in understanding the what, when, how, and why. Furthermore, I excel in strong team atmosphere with the ability to work collaboratively and cross-functionally and value different perspectives and efficiencies. In my free time, I enjoy spending time with my pet corgi Gatsby, exercising and traveling. 
+
+My core strengths include being adaptable, problem solving, and being learning oriented.
 
 Email: nimbuscoding7@gmail.com
 
 Stack: HTML, CSS, Javascript, React, NodeJS, NextJS
 Technologies: TailwindCSS, Git, Github, NPM, Vercel, Chrome Dev Tools 
 
-- 🔭 I’m currently working on a ReactJS project to clone the front end of Facebook.com that allows login functionality through Next.JS NextAuth. Besides that I am regularly practicing my HTML, CSS and Javascript fundamentals with a focus in responsive website design and dom manipulation.  
+- 🔭 I’m currently working on a ReactJS project to modernize my portfolio from its previous build. Besides that I am regularly practicing my HTML, CSS and Javascript fundamentals with a focus in responsive website design and dom manipulation.  
 - 📫 How to reach me: nimbuscoding7@gmail.com
 - Visit my <a href="https://www.linkedin.com/in/brian-spencer-99733823b/" target="_blank">LinkedIn profile!</a>
 - ⚡ Fun fact: The highest grossing media franchise of all time is Pokemon at $110 billion. The MCU is currently at $38 billion. 
